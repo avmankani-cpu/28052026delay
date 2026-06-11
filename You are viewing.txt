@@ -1,19 +1,4 @@
-You are viewing  
-ExcelR Janak
-'s screen
-View Options
-sahana
-sahana
-ExcelR Janak
-Tejas Rajeshirke
-Tejas Rajeshirke
 
-
-Data Science weekday Batch_b13573s36603
-
-ExcelR Janak
-10:30 PM
-EJ
 import streamlit as st
 
 import pandas as pd
@@ -93,10 +78,6 @@ if st.button("predict delivery delay"):
     st.write("1 delivery delay")
 
 
-Who can see your messages? Recording On
-to:
-ExcelR Janak
-(Direct Message)
 
 
 
